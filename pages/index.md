@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Welcome
+title: Johan Van Mol, Architect
 permalink: /
 section: home
 ---
