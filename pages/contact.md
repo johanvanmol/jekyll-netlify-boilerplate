@@ -4,5 +4,4 @@ title: Contact
 permalink: /contact
 section: contact
 ---
-
-**Send us a message**
+**Stuur me een bericht.**
