@@ -2,7 +2,7 @@
 layout: post
 title: Een eenvoudige blogpost
 author: johan_van_mol
-date: '2018-12-13 22:12:00'
+date: '2018-12-12 22:12:00'
 intro_paragraph: ''
 categories: misc
 ---
