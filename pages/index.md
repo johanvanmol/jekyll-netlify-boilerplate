@@ -5,7 +5,6 @@ permalink: /
 section: home
 ---
 [johan@lokaalarchitecten.be](mailto:johan@lokaalarchitecten.be?SUBJECT=Reactie%20via%20www.johanvanmol.be)  
-0485 10 88 93  
 Asterlaan 23, 2620 Hemiksem  
 
 #### DIENSTVERLENING
